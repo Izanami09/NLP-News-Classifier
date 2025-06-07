@@ -40,7 +40,7 @@ To get started with this project, you'll need to have Python installed on your c
     ```bash
     pip install -r requirement.txt
 
-## 3 🎮 Usage
+##  🎮 Usage
 
 ### Run the Streamlit App
    streamlit run app.py
